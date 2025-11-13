@@ -21,7 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiaxing Miao \n (苗嘉兴)"
+  name             : |"Jiaxing Miao"
+                        "(苗嘉兴)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Tongji University"
   location         : "Shanghai, China"
