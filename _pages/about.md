@@ -48,7 +48,7 @@ This paper introduces a new concept of graph memory learning. Its core idea is t
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/Arxiv-25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/Arxiv-25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reliable Curriculum Unlearning via the Right Forgotten Pathway](https://arxiv.org/abs/2509.14633)
