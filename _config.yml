@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiaxing Miao (苗嘉兴)"
-description              : "22222222222222222222222222222222222222"
+description              : "Focusing on continual learning, machine unlearning, and model memory mechanisms."
 repository               : "JiaxingMiao606/JiaxingMiao606.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -45,8 +45,8 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             : "https://dblp.org/pid/336/9835.html"
+  orcid            : "https://orcid.org/0000-0002-3131-178X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
