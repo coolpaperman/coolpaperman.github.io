@@ -19,25 +19,25 @@ redirect_from:
 
 I am a Ph.D. student at the School of Computer Science and Technology, Tongji University, supervised by Prof. Liang Hu (**Head of the Collaborative and Intelligent Computing Laboratory**). My main research interests include **Continual Learning, Machine Unlearning, Brain-inspired AI, and Model Memory Mechanisms**, with a focus on exploring and developing innovative methods to enable machine learning models to learn, forget, and manage their own memory in a manner similar to the human brain.
 
-I hold a Master’s degree in Science, majoring in Mathematics, under the supervision of **Prof. Feilong Cao** at Chian Jiliang University (also **Prof. Hailing Ye** at Chian Jiliang University and **Prof. Ming Li** at Zhejiang Normal University). My academic background combines strong theoretical foundations with practical skills, enabling interdisciplinary research.
+I hold a Master’s degree in Science, majoring in Mathematics, under the supervision of **Prof. Feilong Cao** at Chian Jiliang University (also thanks to **Prof. Hailing Ye** at Chian Jiliang University and **Prof. Ming Li** at Zhejiang Normal University). My academic background combines strong theoretical foundations with practical skills, enabling interdisciplinary research.
 
 I am open to collaborations with researchers and teams sharing interests in **Lifelong Learning**, aiming to explore novel research directions, exchange ideas, and advance the application of related technologies in practice.
 
 
 # 🔥 News
 
-- *2025.10*: &nbsp;🎉🎉 Visited the research group of **Prof. Xipeng Qiu** at Shanghai Innovation Institute.
-- *2025.08*: &nbsp;🎉🎉 One paper is accepted by ***IEEE Transactions on Pattern Analysis and Machine Intelligence*** **(JCR-Q1, 中科院1区Top, CCF-A, IF=18.6)**.
-- *2025.05*: &nbsp;🎉🎉 Built a good academic collaboration with **Prof. Usman Naseem**’s team at Macquarie University.
-- *2024.12*: &nbsp;🎉🎉 Awarded **the Excellent Master’s Thesis of Zhejiang Province**.
-- *2024.10*: &nbsp;🎉🎉 Built a good academic collaboration with **Prof. Hongying Zhao**’s team at Tongji University.
-- *2024.07*: &nbsp;🎉🎉 Built a good academic collaboration with **Prof. Longbin Cao**’s team at Macquarie University.
-- *2023.10*: &nbsp;🎉🎉 One paper is accepted by ***Pattern Recognition*** **(JCR-Q1, 中科院1区Top, CCF-B)**. 
-- *2023.01*: &nbsp;🎉🎉 One paper is accepted by ***Neural Networks*** **(JCR-Q1, 中科院2区Top, CCF-B)**. 
+- *2025.10*: &nbsp;🎉🎉 Visited the research group of Prof. Xipeng Qiu at Shanghai Innovation Institute.
+- *2025.08*: &nbsp;🎉🎉 One paper is accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence* (JCR-Q1, 中科院1区Top, CCF-A, IF=18.6).
+- *2025.05*: &nbsp;🎉🎉 Built a good academic collaboration with Prof. Usman Naseem’s team at Macquarie University.
+- *2024.12*: &nbsp;🎉🎉 Awarded the Excellent Master’s Thesis of Zhejiang Province.
+- *2024.10*: &nbsp;🎉🎉 Built a good academic collaboration with Prof. Hongying Zhao’s team at Tongji University.
+- *2024.07*: &nbsp;🎉🎉 Built a good academic collaboration with Prof. Longbin Cao’s team at Macquarie University.
+- *2023.10*: &nbsp;🎉🎉 One paper is accepted by *Pattern Recognition* (JCR-Q1, 中科院1区Top, CCF-B). 
+- *2023.01*: &nbsp;🎉🎉 One paper is accepted by *Neural Networks* (JCR-Q1, 中科院2区Top, CCF-B). 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
