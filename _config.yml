@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiaxing Miao (苗嘉兴)"
-description              : "22222222222222222222222222222222222222"
+description              : #"22222222222222222222222222222222222222"
 repository               : "JiaxingMiao606/JiaxingMiao606.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -29,7 +29,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LU4PAJUAAAAJ"
-  email            : "mjx606@163.com"
+  email            : "mjx606@163.com" & "JiaxingMiao@tonghji.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
